@@ -2,7 +2,7 @@
 
 **Software Developer** | Chicago, IL
 
-+1(312)647-1688 | [E-mail](mailto:annshagrawaal11@gmail.com) | [Portfolio](https://annshagrawaal.info) | [LinkedIn](https://www.linkedin.com/in/annshagrawaal/) | [GitHub](https://github.com/AnnshAgrawaal) | [Resume](https://annshagrawaal.info/#work)
+(312)-647-1688 | [E-mail](mailto:annshagrawaal11@gmail.com) | [Portfolio](https://annshagrawaal.info) | [LinkedIn](https://www.linkedin.com/in/annshagrawaal/) | [GitHub](https://github.com/AnnshAgrawaal) | [Resume](https://annshagrawaal.info/#work)
 
 ## Summary
 Software Developer and recent Computer Science graduate with experience in developing web applications, website and interfaces using React and JavaScript. Looking for new full-time opportunities :100:
