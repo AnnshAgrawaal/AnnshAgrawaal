@@ -104,7 +104,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/annshagrawaal/annshagrawaal/output/snake.svg" alt="Snake animation" />
-
-###
